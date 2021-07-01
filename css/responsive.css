@@ -1,0 +1,500 @@
+       @media screen and (max-width: 1200px) {
+          #portfolio-aside {
+                padding-top: 3em;
+                float: left;
+                width: 19rem;
+                position: fixed;
+                overflow-y: scroll;
+                margin-left: -1rem; }
+                 #portfolio-aside .author-img{
+                    margin-bottom: 1rem;
+                    margin-top: -2rem;}
+                 #portfolio-aside h1{
+                    margin-top: 1rem;}
+                    #portfolio-aside #portfolio-main-menu{
+                    margin-top: -0.8rem;}
+        .portfolio-feature .portfolio-icon i {
+            font-size: 40px; } 
+            #portfolio-logo,
+                #portfolio-main-menu{
+                   margin-top: -1.2rem;}
+                      #portfolio-aside .portfolio-footer ul {
+                          margin-top: -1rem;}
+                       #portfolio-counter{
+                        margin-left: 0;
+                        margin-top: .8rem; }
+        .portfolio-feature.portfolio-feature-sm .portfolio-icon i {
+            font-size: 28px; }}
+			
+			@media screen and (max-width: 1024px) {
+				.btn-load-more{
+                padding: .5rem 17.5rem;}
+                #slider{
+                    margin-left: -1.8rem; }
+				.services{
+                                height: 16rem;}
+                     .services h3{
+                        font-size: 1rem; }
+                    .services .desc h3,p{
+                        font-size: .8rem; }
+						.portfolio-warkmenu{
+                            margin: .4rem .6rem; }
+							.single-portfolio {
+								 margin-left: -1rem;
+                                 width: 14rem;}
+                        .client-photo{
+                        margin-left: -4rem; }
+                        .blog-post {
+                            width: 14rem;
+                            margin-left: -1rem;
+                        }
+						.blog-read-more1{
+                             padding: .2rem 4rem;} 
+                .hire .btn-hire{
+                    font-size: .8rem;} }
+     @media screen and (max-width: 992px) {
+         #portfolio-aside{
+            width: 18rem;} 
+                .btn-load-more{
+                padding: .5rem 16.5rem;}
+                #slider{
+                    margin-left: -1.8rem; }
+                #portfolio-aside h1{
+                    margin-left: .8rem;}
+                .portfolio-about,
+                .portfolio-services,
+                .portfolio-skills,
+                .portfolio-client,
+                .portfolio-education,
+                .portfolio-experience,
+                .portfolio-work,
+                .portfolio-blog,
+                .portfolio-contact{
+                    margin-left: -.6rem;
+                    margin-top: 2rem;
+                    padding: .5rem;}
+                    #portfolio-aside .portfolio-footer ul li{
+                        margin: 0;
+                    }
+                #portfolio-logo,
+                #portfolio-main-menu{
+                   margin-top: -1.2rem;}                 
+                      #portfolio-aside .portfolio-footer ul {
+                          margin-top: -1rem; }
+                .portfolio-contact{
+                    margin-bottom: 5rem;}
+                    .portfolio-narrow-content {
+                    padding: 0; }
+                  #portfolio-counter{
+                        margin-left: -1.8rem;
+                        margin-top: .8rem; }
+						.single-portfolio {
+									margin-bottom: 1rem;
+									width: 13rem;
+								}
+								.option {
+									margin-left: 2.3rem;
+								}
+								.icon{
+									font-size: 2rem;
+								}
+								.download {
+									margin-left: -7.4rem;
+								}
+								.download i {
+									display: none;
+								}
+								.demo i {
+									display: none;
+								}
+                        .services{
+                                height: 16rem;}
+                     .services h3{
+                        font-size: 1rem; }
+                    .services .desc h3,p{
+                        font-size: .8rem; }
+                        .blog-post {
+                            width: 14.5rem;
+                            margin-left: -1rem;
+                        }
+                        .portfolio-warkmenu{
+                            margin: .4rem .6rem; }
+                        .single-portfolio{
+                            margin-left: -1rem; }
+                        .client-photo{
+                        margin-left: -4rem; }
+                        .client-review{
+                            margin-bottom: 2.5rem;} 
+                    .card-columns {
+                           column-count: 3; }
+                        .hire h2 {
+                    font-size: 1.5rem;
+                    line-height: 2rem;}
+                    .card-columns {
+                           column-count: 2;}
+                    .card-columns{
+                    margin-left: -1.3rem;}
+                     .blog-read-more1{
+                             padding: .2rem 4rem;} 
+                .hire .btn-hire{
+                    font-size: .8rem;} }
+            @media screen and (max-width: 768px) {
+                .portfolio-about,
+                .portfolio-services,
+                .portfolio-skills,
+                .portfolio-client,
+                .portfolio-education,
+                .portfolio-experience,
+                .portfolio-work,
+                .portfolio-blog,
+                .portfolio-contact{
+                    margin-top: 2rem;
+                    margin-left: .1rem;
+                    padding: 1rem;}                             
+        #portfolio-aside {
+        width: 300px;
+        -moz-transform: translateX(-300px);
+        -webkit-transform: translateX(-300px);
+        -ms-transform: translateX(-300px);
+        -o-transform: translateX(-300px);
+        transform: translateX(-300px);
+        padding-top: 4em; }
+        #portfolio-aside .author-img{
+            height: 8rem;
+            width: 8rem;
+            margin-top: -2.8rem;}
+            #portfolio-aside #portfolio-logo a {
+                margin-top: 1rem;
+                padding-right: .3em; }
+                #portfolio-aside #portfolio-main-menu ul li {
+                    margin: 0 0 6px 0;
+                }
+       #portfolio-aside #portfolio-main-menu{
+                    margin-top: 1rem;}
+                    #portfolio-aside .position {
+                       margin-top: 2px; }
+          #portfolio-aside .portfolio-footer {
+            margin-top: 1rem;
+		  margin-bottom: 6rem;}
+			#portfolio-aside .portfolio-footer p{
+            margin-bottom: 2rem; }
+            #portfolio-aside .portfolio-footer ul li a {
+                margin: 0.2rem;
+                margin-top: 0.2rem;
+            }
+            .portfolio-main {
+                width: 100%;
+                padding: 0 1em; } 
+                .portfolio-heading {
+                    margin-bottom: 3em; }
+                    .slider-content h3 {
+                        font-size: 2.2rem;
+                        margin-top: -105px;
+                    }
+                    .slider-content a {
+                        font-size: 10px;}
+                    .carousel-inner {
+                        height: 22rem;
+                        margin-bottom: -3rem;
+                    }
+                    .portfolio-nav-toggle {
+                        opacity: 1;
+                        visibility: visible; }
+                        .btn-load-more{
+                        padding: .5rem 19rem;}
+                        .single-portfolio{
+                            margin-left: -0.4rem; }
+                        .portfolio-warkmenu a{
+                        margin: .4rem .6rem}
+                     #portfolio-counter{
+                         margin-left: 0;
+                        margin-top: .8rem; }
+                    .client-photo{
+                        margin-left: -4rem; }
+                        .client-review{
+                            margin-bottom: 2.5rem;}
+                            .blog-post {
+                            width: 15.2rem;
+                            margin-left: -1rem;
+                        }  
+                    .portfolio-contact .form-group{
+                       margin-left:2rem; }
+                      .services{
+                                height: 16rem;}
+                    .services h3{
+                        font-size: 1rem; }
+                        .card-columns{
+                            margin-left: .2rem;
+                        }
+                        .card-columns {
+                           column-count: 2;}
+                           .blog-read-more1{
+                             padding: .2rem 4rem;} 
+                    .portfolio-narrow-content {
+                    padding: 0; } } 				
+             @media screen and (max-width: 576px){
+                .portfolio-about,
+                .portfolio-services,
+                .portfolio-skills,
+                .portfolio-client,
+                .portfolio-education,
+                .portfolio-experience,
+                .portfolio-work,
+                .portfolio-blog,
+                .portfolio-contact{
+                    margin-top: 4rem;
+                     padding: 0rem;} 
+                     .slider-content {
+                        margin-left: 20px;
+                    }
+                    .carousel-inner {
+                        height: 20rem;
+                        margin-bottom: -6rem;
+                    }
+                    .portfolio-about p{
+                        font-size: 11px;}             
+                      #portfolio-counter {
+                        margin-left: 0rem;
+                        font-size: 1.5rem;
+                    }
+                    .services{
+                        margin-bottom: 3.4rem;
+                        font-size: 1rem; }
+                    .hire{
+                    margin-top: 1rem;}
+                .hire h2 {
+                    font-size: 1rem;
+                    line-height: 1.5rem;}
+                .hire .btn-hire{
+                    font-size: .6rem;}
+                    #portfolio-counter .portfolio-counter-label {
+                        font-size: 10px;
+                    }
+                    .card-columns {
+                        column-count: 2;}
+                    #portfolio-counter{
+                        margin-left: 0;
+                        font-size: 1.8rem;
+                        margin-top: .8rem; }
+                    .portfolio-warkmenu a{
+                        margin: .6rem .1rem}
+                   .btn-load-more{
+                    padding: .5rem 15rem;
+                    font-size: .7rem;}
+                        .single-portfolio{
+                            margin: 0 auto;
+                            margin-bottom: 22px;}
+                            .client-photo img {
+                                margin-left: 13rem;
+                            }
+                            .client-review {
+                                margin-right: 5rem;
+                            }
+                            .heading-meta{
+                                font-size: 7px;
+                            }
+                            .portfolio-heading {
+                                font-size: 10px;
+                            }
+                            .panel-heading a {
+                                font-size: 10px;}
+                                .panel-body p{
+                                    font-size: 11px;
+                                }
+                                .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label h2 a {
+                                    font-size: 14px;
+                                }
+                                .timeline-label p{
+                                    font-size: 11px;
+                                }
+                                    .portfolio-warkmenu a{
+                                        font-size: 11px;
+                                        margin: 4px;
+                                        margin-bottom: 5px;
+                                    }
+                                    .progress-wrap h3 {
+                                        font-size: .8rem;
+                                    }
+                                    .progress-bar {
+                                        font-size: .8rem;
+                                    }
+                          .blog-post {
+                                width: 16rem;
+                                margin-left: 0rem;}
+                             .services{
+                                height: 13rem;
+                                margin-bottom: 8px;}
+                                .services h3{
+                                    font-size: .8rem;
+                                }
+                                .services p{
+                                    font-size: .7rem;
+                                }
+                            }
+             @media screen and (max-width: 575px){
+                                .blog-post {
+                                    width: 70%;
+                                    margin-left: 5rem;
+                                }
+                            }
+							 @media screen and (max-width: 480px){
+                .client-photo img {
+                    margin-left: 3rem;
+                }
+				.panel-heading a {
+                                font-size: 9px;}
+                .card-columns {
+                    width: 95%;
+                }
+                .services {
+                    margin-bottom: 1rem;
+                }
+                 .slider-content .btn{
+                     font-size: .5rem;}
+					 .hire {
+						margin-top: 1rem;
+						padding: .6rem;
+						margin-bottom: -2rem;
+					}
+					.hire h2 {
+						font-size: 1rem;
+						line-height: 1.4rem;
+						margin-bottom: 9px;
+					}
+                 .btn-load-more{
+                        padding: 6px 180px;}
+                        .client-photo img {
+							margin-left: 9.5rem;
+							width: 54px;
+						height: 56px;}
+                            .services{
+                                height: 14rem;}
+                             .portfolio-warkmenu a{
+                        margin: .3rem;}
+                        .card-columns {
+                        column-count: 1;}
+                        .blog-post {
+                                width: 24rem;
+                                margin-left: 2.4rem;}
+                        .client-review{
+                            margin-right: 46px;}}
+							 @media screen and (max-width: 450px){
+				.panel-heading a {
+                                font-size: 9px;}
+                .card-columns {
+                    width: 95%;
+                }
+                .services {
+                    margin-bottom: 1rem;
+                }
+                 .slider-content .btn{
+                     font-size: .5rem;}
+					 .hire {
+						margin-top: 1rem;
+						padding: .6rem;
+						margin-bottom: -2rem;
+					}
+					.hire h2 {
+						font-size: 1rem;
+						line-height: 1.4rem;
+						margin-bottom: 9px;
+					}
+                 .btn-load-more{
+                        padding: 6px 178px;}
+                        .client-photo img {
+							margin-left: 8rem;
+							width: 54px;
+						height: 56px;}
+                            .services{
+                                height: 14rem;}
+                             .portfolio-warkmenu a{
+                        margin: .3rem;}
+                        .card-columns {
+                        column-count: 1;}
+                        .blog-post {
+                                width: 20rem;
+								margin-left: 3.2rem;}
+                        .client-review{
+                            margin-right: 40px;}}
+							@media screen and (max-width: 414px){
+								.btn-load-more {
+										padding: 6px 158px;
+									}
+									.blog-post {
+									margin-left: 2.2rem;
+								}
+								.client-photo img {
+										margin-left: 6rem;
+									}
+							}
+				@media screen and (max-width: 375px){
+					.btn-load-more{
+                       padding: 6px 133px;}
+                     .client-photo img {
+						 margin-left: 6rem;
+							width: 54px;
+						height: 56px;}
+						.client-review{
+                            margin-right: 3px;}
+							.blog-post {
+									width: 20rem;
+									margin-left: .6rem;
+								}
+				}			
+				@media screen and (max-width: 360px){
+					.client-photo {
+					margin-left: -4rem;}
+				}
+				@media screen and (max-width: 320px){
+					.btn-load-more {
+							padding: 6px 113px;
+						}
+						.client-photo img {
+							margin-left: 4.5rem;
+						}
+						.blog-post {
+							width: 19rem;
+							margin-left: -5px;
+						}
+				}
+             @media screen and (max-width: 280px){
+                .client-photo img {
+                    margin-left: 3rem;
+                }
+				.panel-heading a {
+                                font-size: 9px;}
+                .card-columns {
+                    width: 95%;
+                }
+                .services {
+                    margin-bottom: 1rem;
+                }
+                 .slider-content .btn{
+                     font-size: .5rem;}
+					 .hire {
+						margin-top: 1rem;
+						padding: .6rem;
+						margin-bottom: -2rem;
+					}
+					.hire h2 {
+						font-size: 1rem;
+						line-height: 1.4rem;
+						margin-bottom: 9px;
+					}
+                 .btn-load-more{
+                        padding: 6px 91px;}
+                        .client-photo img {
+							margin-left: 3.5rem;
+							width: 54px;
+						height: 56px;}
+                            .services{
+                                height: 14rem;}
+                             .portfolio-warkmenu a{
+                        margin: .3rem;}
+                        .card-columns {
+                        column-count: 1;}
+                        .blog-post {
+                            width: 16rem;
+							margin-left: -0.1rem;}
+                        .client-review{
+                            margin-right: -22px;}}
